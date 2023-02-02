@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocoaAni.Files.M3U8", "CocoaAni.Files.M3U8.csproj", "{AD75878E-2B07-4665-99A4-2DB08055F496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD75878E-2B07-4665-99A4-2DB08055F496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD75878E-2B07-4665-99A4-2DB08055F496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD75878E-2B07-4665-99A4-2DB08055F496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD75878E-2B07-4665-99A4-2DB08055F496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33607C2D-58CF-40F1-883A-D88D846AA3D2}
+	EndGlobalSection
+EndGlobal
